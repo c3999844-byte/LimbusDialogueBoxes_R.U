@@ -10,3 +10,5 @@
 1. Скачиваете BattleSpeechBubbleDlg.
 2. Копируйте BattleSpeechBubbleDlg, и вставляйте в русификатор.
 
+П.С:
+Я тупой.
